@@ -1,0 +1,12 @@
+R:\PROYECTOS VB\JoyNelaton-Lab3\JoyNelaton-Lab3\bin\Debug\JoyNelaton-Lab3.exe.config
+R:\PROYECTOS VB\JoyNelaton-Lab3\JoyNelaton-Lab3\bin\Debug\JoyNelaton-Lab3.exe
+R:\PROYECTOS VB\JoyNelaton-Lab3\JoyNelaton-Lab3\bin\Debug\JoyNelaton-Lab3.pdb
+R:\PROYECTOS VB\JoyNelaton-Lab3\JoyNelaton-Lab3\bin\Debug\JoyNelaton-Lab3.xml
+R:\PROYECTOS VB\JoyNelaton-Lab3\JoyNelaton-Lab3\obj\Debug\JoyNelaton-Lab3.vbprojResolveAssemblyReference.cache
+R:\PROYECTOS VB\JoyNelaton-Lab3\JoyNelaton-Lab3\obj\Debug\JoyNelaton_Lab3.Form1.resources
+R:\PROYECTOS VB\JoyNelaton-Lab3\JoyNelaton-Lab3\obj\Debug\JoyNelaton_Lab3.Resources.resources
+R:\PROYECTOS VB\JoyNelaton-Lab3\JoyNelaton-Lab3\obj\Debug\JoyNelaton-Lab3.vbproj.GenerateResource.Cache
+R:\PROYECTOS VB\JoyNelaton-Lab3\JoyNelaton-Lab3\obj\Debug\JoyNelaton-Lab3.exe
+R:\PROYECTOS VB\JoyNelaton-Lab3\JoyNelaton-Lab3\obj\Debug\JoyNelaton-Lab3.xml
+R:\PROYECTOS VB\JoyNelaton-Lab3\JoyNelaton-Lab3\obj\Debug\JoyNelaton-Lab3.pdb
+R:\PROYECTOS VB\JoyNelaton-Lab3\JoyNelaton-Lab3\obj\Debug\JoyNelaton_Lab3.Form2.resources
